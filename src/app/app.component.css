@@ -1,0 +1,7 @@
+div{
+    background-color: #fafafa;
+    padding: 50px;
+}
+mat-drawer{
+    min-width: 200px;
+}

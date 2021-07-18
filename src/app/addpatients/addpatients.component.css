@@ -1,0 +1,19 @@
+div{
+    max-width: 800px;
+    margin: auto; 
+}
+mat-form-field, button{
+    width: calc(100% - 40px);
+}
+mat-grid-tile{
+    padding: 10px;
+}
+ 
+button{
+    height: 50px;
+    margin-top: -20px;
+}
+.saveButtonLoading{ 
+    position: relative;
+    top: 7px;
+}
